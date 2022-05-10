@@ -14,7 +14,6 @@
    <img alt="Python 3.7" src="https://img.shields.io/badge/python-3.7-green.svg?style=plastic">
   <img alt="jieba 0.42.1" src="https://img.shields.io/badge/jieba-0.42.1-green.svg?style=plastic">
   <img alt="pandas 1.3.5" src="https://img.shields.io/badge/pandas-1.3.5-green.svg?style=plastic">
-  <img alt="License CC BY-NC-SA" src="https://img.shields.io/badge/license-CC_BY--NC--SA--green.svg?style=plastic">
 </p>
 
 ## Requirements
